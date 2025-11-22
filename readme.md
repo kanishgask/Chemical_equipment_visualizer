@@ -197,6 +197,14 @@ Use this file to test the application functionality.
 ---
 
 ## 📸 Screenshots
+<img width="1427" height="830" alt="image" src="https://github.com/user-attachments/assets/2565ca66-0d93-4e6d-adeb-8b05f25ec6c5" />
+<img width="1417" height="268" alt="image" src="https://github.com/user-attachments/assets/d43f9a54-dc67-4972-9b59-3a4d4cdef3d5" />
+<img width="1422" height="1585" alt="image" src="https://github.com/user-attachments/assets/360a81ed-fd42-456a-9e57-d672917553c8" />
+<img width="400" height="242" alt="image" src="https://github.com/user-attachments/assets/76c7295c-43e5-44f4-8271-13e9b76f15f1" />
+<img width="401" height="357" alt="image" src="https://github.com/user-attachments/assets/6f8f0ea8-c43a-4677-b50b-8c683168dbfa" />
+
+
+
 
 ### Web Application
 - Modern gradient design with responsive layout
