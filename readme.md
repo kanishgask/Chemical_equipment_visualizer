@@ -481,30 +481,7 @@ For issues or questions:
 
 ## 🎬 Demo Video Guide
 
-When creating your demo video (2-3 minutes), cover:
-
-1. **Introduction** (15s)
-   - Project overview
-   - Tech stack
-
-2. **Web Application Demo** (60s)
-   - Login/Registration
-   - CSV upload
-   - Data visualization
-   - PDF generation
-
-3. **Desktop Application Demo** (60s)
-   - Launch and login
-   - File upload
-   - Charts display
-   - History navigation
-
-4. **Technical Highlights** (15s)
-   - API architecture
-   - Data processing
-   - Code structure
-
----
+"C:\Users\kanishga.s\Videos\Recording 2025-11-22 164043.mp4"
 
 ## ✅ Project Checklist
 
