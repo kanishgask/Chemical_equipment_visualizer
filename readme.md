@@ -481,7 +481,7 @@ For issues or questions:
 
 ## 🎬 Demo Video Guide
 
-"C:\Users\kanishga.s\Videos\Recording 2025-11-22 164043.mp4"
+C:\Users\kanishga.s\Videos\Recording 2025-11-22 164043.mp4
 
 ## ✅ Project Checklist
 
